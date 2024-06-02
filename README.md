@@ -44,8 +44,10 @@ Used to display images in a React Native app. It's similar to an `img` element i
 
 ## Screenshots
 
-![Screenshot ](myapp\src\assets\Screenshot.png)
-![Screenshot2](myapp\src\assets\Screenshot2.png)
+![Screenshot ](![Screenshot](https://github.com/davidboateng451/rn-assignment3-11135953/assets/151746606/f01e2af0-f704-41e7-a71e-b3c733241fe4)
+)
+![Screenshot2](![Screenshot2](https://github.com/davidboateng451/rn-assignment3-11135953/assets/151746606/91be71db-20e1-4236-b0e0-f77adfdea864)
+)
 
 
 ## Usage
